@@ -24,4 +24,3 @@ for index, todo in enumerate(todos):
 
 
 st.text_input("", placeholder="Add a todo...", key='todo', on_change=add_todo)
-st.write(os.getcwd())
