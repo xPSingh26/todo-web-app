@@ -1,3 +1,4 @@
 Watch movie
 study python
 play games
+fix the bug
